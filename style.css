@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #eeeeee;
+    padding: 30px;
+}
+
+h1 {
+    color: #333333;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+}
